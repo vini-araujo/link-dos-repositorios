@@ -32,6 +32,3 @@ Projetos com HTML, CSS e JavaScript puro.
 
 ---
 
-Me segue no Instagram para mais dicas sobre tecnologia, IA e programação:
-
-📲 @vinihacker.dev
